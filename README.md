@@ -2,6 +2,29 @@
 
 Dropbox-like file storage with upload, view, and download capabilities.
 
+## Demo
+
+### Screenshots
+
+<p align="center">
+  <img src="Screenshot 2025-11-05 at 11.44.33 PM.png" width="45%" />
+  <img src="Screenshot 2025-11-05 at 11.44.42 PM.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="Screenshot 2025-11-05 at 11.44.52 PM.png" width="45%" />
+  <img src="Screenshot 2025-11-05 at 11.45.05 PM.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="Screenshot 2025-11-05 at 11.45.16 PM.png" width="45%" />
+  <img src="Screenshot 2025-11-05 at 11.45.25 PM.png" width="45%" />
+</p>
+
+### Video Demo
+
+[Watch Demo Video](Screen%20Recording%202025-11-05%20at%2010.50.04%20PM.mov)
+
 ## Tech Stack
 
 **Backend:** Node.js, Express, TypeScript, Sequelize, SQLite, Multer
