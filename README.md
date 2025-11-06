@@ -10,7 +10,6 @@ Dropbox-like file storage with upload, view, and download capabilities.
 <img width="2056" height="1121" alt="Screenshot 2025-11-05 at 11 45 25 PM" src="https://github.com/user-attachments/assets/9dbee1b2-6d74-4705-970d-939943738f6c" />
 <img width="2056" height="1115" alt="Screenshot 2025-11-06 at 3 08 47 PM" src="https://github.com/user-attachments/assets/b63597b3-eb92-4210-9550-3cbed0e3c42e" />
 <img width="2034" height="1105" alt="Screenshot 2025-11-05 at 11 44 42 PM" src="https://github.com/user-attachments/assets/899b37d7-ad60-4115-81ae-567b23d85b71" />
-<img width="2056" height="1108" alt="Screenshot 2025-11-05 at 11 44 52 PM" src="https://github.com/user-attachments/assets/455d7676-418e-4c50-aee3-60649ad0aa6c" />
 <img width="2042" height="1105" alt="Screenshot 2025-11-05 at 11 45 05 PM" src="https://github.com/user-attachments/assets/8692fa04-56bf-4514-bfdc-4b8723f6a23c" />
 <img width="2049" height="926" alt="Screenshot 2025-11-05 at 11 45 16 PM" src="https://github.com/user-attachments/assets/407aedc8-0e98-47e2-8e64-db10934b869c" />
 
